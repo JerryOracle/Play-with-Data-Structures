@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02-Array/02-Array.iml" filepath="$PROJECT_DIR$/02-Array/02-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Stacks-and-Queues/03-Stacks-and-Queues.iml" filepath="$PROJECT_DIR$/03-Stacks-and-Queues/03-Stacks-and-Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Linked-List/04-Linked-List.iml" filepath="$PROJECT_DIR$/04-Linked-List/04-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Play-with-Data-Structures.iml" filepath="$PROJECT_DIR$/Play-with-Data-Structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Stacks-and-Queues/Stacks.iml" filepath="$PROJECT_DIR$/03-Stacks-and-Queues/Stacks.iml" />
     </modules>
